@@ -9,5 +9,10 @@ public class mainSolarSystem {
         Xros.moon="2";
         Xros.planet="3";
 
+        featureSun sunEx=new featureSun();
+        sunEx.color="pink";
+        sunEx.size="090";
+        sunEx.temp="90K";
+
     }
 }
